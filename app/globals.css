@@ -1,3 +1,5 @@
+/* Global css of the entire application
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
